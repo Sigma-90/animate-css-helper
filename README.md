@@ -6,7 +6,7 @@ This plugin was created to be used with with Daniel Eden's excellent CSS library
 ### What does it do?
 
 It handles the correct application of a CSS animation to a DOM element, including customizable settings for animation duration, delay and amount of loops. 
-While doing so it also takes care of inline-styles potentially that exist on the element that's supposed to be animated and restores those when the animation is completed. 
+While doing so it also takes care of inline-styles pre-existing on the element that's supposed to be animated and restores those when the animation is completed. 
 Last, but not least, it also provides the option of define a callback function that will be executed when the animation has ended. 
 
 ## Usage:
